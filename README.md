@@ -9,7 +9,7 @@ This is a public issue-tracking repository for bugs and confirmed features relat
 Issues can be [submitted](https://github.com/osateam/ssonline/issues/new) at the [issue tracker](https://github.com/osateam/ssonline/issues).
 
 # Guidlines 
-- Follow the formatting guide to the best of your ability
+- Follow the formatting guide to the best of your ability, although optional.
 - Search the issue tracker to ensure that your issue is not a duplicate
 - Verify the validity and/or plausibility of your issue
 - Be clear and concise in your description
